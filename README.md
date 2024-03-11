@@ -1,4 +1,3 @@
-![Screenshot 2024-03-11 102007](https://github.com/DurgaV240106/EXNO2DS/assets/144870878/8195a72f-1f23-49dc-bfe4-9f8f4f84d4ba)![Screenshot 2024-03-11 101558](https://github.com/DurgaV240106/EXNO2DS/assets/144870878/22d1de35-0fb4-465d-87b4-3218420f2603)# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
